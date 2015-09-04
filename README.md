@@ -1,2 +1,3 @@
 # angular-material-boilerplate
-A boilerplate for angular material
+Development boilerplate for new sites. 
+
